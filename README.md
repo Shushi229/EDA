@@ -45,14 +45,23 @@ jupyter notebook EDA_TITANIC.ipynb
 **The dataset contains the following features:**
 
 PassengerId: Unique identifier for each passenger
+
 Survived: Survival status (0 = No, 1 = Yes)
+
 Pclass: Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd)
+
 Name: Passenger name
+
 Sex: Passenger gender
+
 Age: Passenger age
+
 SibSp: Number of siblings/spouses aboard
+
 Parch: Number of parents/children aboard
+
 Ticket: Ticket number
+
 Fare: Fare paid for ticket
 Cabin: Cabin number
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
