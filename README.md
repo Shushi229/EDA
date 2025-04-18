@@ -63,5 +63,15 @@ Parch: Number of parents/children aboard
 Ticket: Ticket number
 
 Fare: Fare paid for ticket
+
 Cabin: Cabin number
+
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+## 📧 Contact
+
+Feel free to reach out with any questions or suggestions for improvement!
+
+- LinkedIn: [saurabhhupadhyay](https://linkedin.com/in/saurabhhupadhyay)
+- Email: saurabhu.2004@gmail.com
+---
